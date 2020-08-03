@@ -7,7 +7,7 @@ I extracted all measurements of temperature from every day that fell in the mont
 ![](climate_analysis/Images/temp_dec_chart.PNG)
 ![](climate_analysis/Images/temp_june_chart.PNG)
 
-In these chart you can see visiually the approximate 10 degree difference in the lower temperatures.
+In these charts you can see visiually the approximate 10 degree difference in the lower temperatures.
 
 ![](climate_analysis/Images/rain_dec.PNG)
 ![](climate_analysis/Images/rain_june.PNG)
@@ -17,4 +17,4 @@ It rains slightly more in December that June: Average in Dec = 0.22" and Average
 ![](climate_analysis/Images/rain_dec_chart.PNG)
 ![](climate_analysis/Images/rain_june_chart.PNG)
 
-In the charts you can visibly see the approximate two inch difference between the two months. Decemember has more day over two inches than does June.
+In these charts you can visibly see the approximate two inch difference between the two months. Decemember has more day over two inches than does June.
